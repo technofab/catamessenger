@@ -1,5 +1,5 @@
 # catamessenger
-Using catapush API for push notifications on mobile.
+Using Catapush API for push notifications on mobile.
 
 Based on [http://www.catapush.com/features](http://www.catapush.com/features) you can build a simple messenger to send instant message to mobile device of your recipients. 
 Common use is alert something to the phone with an istant message.
