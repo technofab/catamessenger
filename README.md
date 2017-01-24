@@ -5,7 +5,7 @@ Based on [http://www.catapush.com/features](http://www.catapush.com/features) yo
 Common use is alert something to the phone with an istant message.
 
 ## How to use
-To download and use this project, you need a shell '*nix*' like system with chegit and curl commands available. Next you can use
+To download and use this project, you need a shell '*'*'nix*' like system with chegit and curl commands available. Next you can use
 
 git clone https://github.com/technofab/catamessenger.git
 
