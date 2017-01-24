@@ -1,6 +1,8 @@
 # catamessenger
 Using catapush API for push notifications on mobile.
 
+Based on http://www.catapush.com/features services you can build a simple
+
 To download files on project
 
 git clone https://github.com/technofab/catamessenger.git
